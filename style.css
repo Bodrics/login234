@@ -1,0 +1,38 @@
+.button1{
+  width: 200px;
+  height: 60px;
+  color:grey;
+  margin-left: 500px;
+}
+
+.example{
+border-radius:12px;
+border:1px solid black;
+margin: 0 auto;
+width: 58%;
+
+}
+.login_form{
+  margin: 0px auto;
+  width: 30%;
+
+}
+.login_send_button{
+margin-top: 26px;
+    width: 165px;
+    height: 46px;
+    margin-left: 3px;
+}
+.ex2{
+  padding-top: 60px
+}
+.sign1{
+
+}
+login1{
+
+}
+.choice{
+  margin: 0 auto;
+  width: 23%
+}
